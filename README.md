@@ -1,2 +1,2 @@
-# Lucky_StartUp
-The beginnings of Lucky.
+# Preparem-Startup
+The beginnings of Preparem.
